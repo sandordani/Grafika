@@ -1,0 +1,57 @@
+﻿  Skeleton.cpp
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(226): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(240): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(242): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(244): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(246): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(249): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(252): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(255): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(264): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(290): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(292): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(294): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(296): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(309): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(311): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(313): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(321): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(335): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(392): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(397): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(399): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(400): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(401): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(403): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(404): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(405): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(406): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(435): warning C4018: '<': signed/unsigned mismatch
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(438): warning C4018: '<': signed/unsigned mismatch
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(441): warning C4018: '<': signed/unsigned mismatch
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(451): warning C4018: '<': signed/unsigned mismatch
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(460): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(461): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(462): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(463): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dani\desktop\grafika 2. házi\programs\skeleton\skeleton\skeleton.cpp(551): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  20 of 317 functions ( 6.3%) were compiled, the rest were copied from previous compilation.
+    13 functions were new in current compilation
+    21 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Skeleton.vcxproj -> C:\Users\Dani\Desktop\Grafika 2. házi\Programs\Skeleton\bin\Skeleton.exe

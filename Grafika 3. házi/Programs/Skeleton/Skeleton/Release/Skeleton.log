@@ -1,0 +1,43 @@
+﻿  framework.cpp
+  Skeleton.cpp
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(47): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(50): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(53): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(56): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(81): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(84): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(87): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(303): warning C4018: '<': signed/unsigned mismatch
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(334): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(338): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(387): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(464): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(491): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(513): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(514): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(515): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(516): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(517): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(518): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(589): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(675): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(676): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(677): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(678): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(679): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dani\desktop\egyetem\grafika 3. házi\programs\skeleton\skeleton\skeleton.cpp(756): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  314 of 319 functions (98.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Skeleton.vcxproj -> C:\Users\Dani\Desktop\Egyetem\Grafika 3. házi\Programs\Skeleton\bin\Skeleton.exe
